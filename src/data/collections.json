@@ -1,0 +1,62 @@
+[
+  {
+    "id": "summer-essentials",
+    "name": "Summer Essentials",
+    "slug": "summer-essentials",
+    "description": "Beat the heat with our lightweight, breathable summer collection designed for peak performance.",
+    "image": "/src/assets/collection-everyday.jpg",
+    "type": "seasonal",
+    "featured": true,
+    "products": ["ext-001", "ext-003", "ext-005", "ext-007", "ext-009"]
+  },
+  {
+    "id": "new-arrivals",
+    "name": "New Arrivals",
+    "slug": "new-arrivals", 
+    "description": "Fresh styles just dropped. Discover the latest innovations in athletic wear.",
+    "image": "/src/assets/collection-shorts.jpg",
+    "type": "new-arrivals",
+    "featured": true,
+    "products": ["ext-014", "ext-015", "ext-016", "ext-017", "ext-018", "ext-019"]
+  },
+  {
+    "id": "bestsellers",
+    "name": "Bestsellers",
+    "slug": "bestsellers",
+    "description": "Our most-loved pieces that deliver on performance and style every time.",
+    "image": "/src/assets/product-leggings.jpg", 
+    "type": "bestsellers",
+    "featured": false,
+    "products": ["ext-001", "ext-002", "ext-003", "ext-011", "ext-012"]
+  },
+  {
+    "id": "training-essentials",
+    "name": "Training Essentials",
+    "slug": "training-essentials",
+    "description": "Everything you need for intense training sessions and recovery.",
+    "image": "/src/assets/product-sports-bra.jpg",
+    "type": "performance",
+    "featured": true,
+    "products": ["ext-011", "ext-012", "ext-013", "ext-014", "ext-015", "ext-016"]
+  },
+  {
+    "id": "everyday-comfort",
+    "name": "Everyday Comfort",
+    "slug": "everyday-comfort",
+    "description": "Versatile pieces that transition seamlessly from gym to street.",
+    "image": "/src/assets/product-shorts.jpg",
+    "type": "lifestyle",
+    "featured": false,
+    "products": ["ext-002", "ext-004", "ext-006", "ext-008", "ext-010"]
+  },
+  {
+    "id": "sale",
+    "name": "Sale",
+    "slug": "sale",
+    "description": "Limited-time offers on premium athletic wear. Shop before they're gone.",
+    "image": "/src/assets/editorial-motion.jpg",
+    "type": "sale",
+    "featured": false,
+    "products": ["ext-017", "ext-018", "ext-019", "ext-020"]
+  }
+]

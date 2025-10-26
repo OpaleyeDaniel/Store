@@ -1,0 +1,562 @@
+[
+  {
+    "id": "ext-001",
+    "slug": "everyday-seamless-racerback-sports-bra",
+    "title": "Everyday Seamless Racerback Sports Bra",
+    "priceCents": 2600,
+    "compareAtCents": null,
+    "currency": "USD",
+    "gender": null,
+    "fit": "light support",
+    "categories": [],
+    "collections": [],
+    "description": null,
+    "variants": [
+      {
+        "id": "everyday-seamless-racerback-sports-bra-v1",
+        "sku": "everyday-seamless-racerback-sports-bra-sku",
+        "colorName": "Build Pink",
+        "size": null,
+        "priceCents": 2600,
+        "images": [
+          {
+            "url": "https://cdn.shopify.com/s/files/1/0156/6146/files/images-LightSupportEverydaySeamlessTrendBraGSBuildPinkB4C1V_KB7B_0726_3840x.jpg?v=1752768318",
+            "alt": "Everyday Seamless Racerback Sports Bra"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ext-002",
+    "slug": "everyday-seamless-leggings",
+    "title": "Everyday Seamless Leggings",
+    "priceCents": 3800,
+    "compareAtCents": null,
+    "currency": "USD",
+    "gender": null,
+    "fit": "regular",
+    "categories": [],
+    "collections": [],
+    "description": null,
+    "variants": [
+      {
+        "id": "everyday-seamless-leggings-v1",
+        "sku": "everyday-seamless-leggings-sku",
+        "colorName": "Build Pink",
+        "size": null,
+        "priceCents": 3800,
+        "images": [
+          {
+            "url": "https://cdn.shopify.com/s/files/1/0156/6146/files/images-EverydaySeamlessLeggingsGSBuildPinkB7A3L_KB7B_2_3840x.jpg?v=1755093881",
+            "alt": "Everyday Seamless Leggings"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ext-003",
+    "slug": "everyday-seamless-tank-with-shelf",
+    "title": "Everyday Seamless Tank With Shelf",
+    "priceCents": 3000,
+    "compareAtCents": null,
+    "currency": "USD",
+    "gender": null,
+    "fit": null,
+    "categories": [],
+    "collections": [],
+    "description": null,
+    "variants": [
+      {
+        "id": "everyday-seamless-tank-with-shelf-v1",
+        "sku": "everyday-seamless-tank-with-shelf-sku",
+        "colorName": "Build Pink",
+        "size": null,
+        "priceCents": 3000,
+        "images": [
+          {
+            "url": "https://cdn.shopify.com/s/files/1/0156/6146/files/images-EverydaySeamlessTrend1SleevelesswithshelfGSBuildPinkB4C6F_KB7B_0370_0396_3840x.jpg?v=1752594881",
+            "alt": "Everyday Seamless Tank With Shelf"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ext-004",
+    "slug": "everyday-seamless-t-shirt",
+    "title": "Everyday Seamless T-Shirt",
+    "priceCents": 2800,
+    "compareAtCents": null,
+    "currency": "USD",
+    "gender": null,
+    "fit": null,
+    "categories": [],
+    "collections": [],
+    "description": null,
+    "variants": [
+      {
+        "id": "everyday-seamless-t-shirt-v1",
+        "sku": "everyday-seamless-t-shirt-sku",
+        "colorName": "Build Pink",
+        "size": null,
+        "priceCents": 2800,
+        "images": [
+          {
+            "url": "https://cdn.shopify.com/s/files/1/0156/6146/files/images-EverydaySeamlessT_ShirtGSBuildPinkB8A4N_KB7B_0470_0409_3840x.jpg?v=1752768714",
+            "alt": "Everyday Seamless T-Shirt"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ext-005",
+    "slug": "everyday-seamless-midi-tube-top",
+    "title": "Everyday Seamless Midi Tube Top",
+    "priceCents": 2400,
+    "compareAtCents": null,
+    "currency": "USD",
+    "gender": null,
+    "fit": null,
+    "categories": [],
+    "collections": [],
+    "description": null,
+    "variants": [
+      {
+        "id": "everyday-seamless-midi-tube-top-v1",
+        "sku": "everyday-seamless-midi-tube-top-sku",
+        "colorName": "Build Pink",
+        "size": null,
+        "priceCents": 2400,
+        "images": [
+          {
+            "url": "https://cdn.shopify.com/s/files/1/0156/6146/files/images-EverydaySeamlessMidiTubeTopGSBuildPinkB2C9P_KB7B_0313_0384_3840x.jpg?v=1752505089",
+            "alt": "Everyday Seamless Midi Tube Top"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ext-006",
+    "slug": "everyday-seamless-shorts",
+    "title": "Everyday Seamless Shorts",
+    "priceCents": 2800,
+    "compareAtCents": null,
+    "currency": "USD",
+    "gender": null,
+    "fit": null,
+    "categories": [],
+    "collections": [],
+    "description": null,
+    "variants": [
+      {
+        "id": "everyday-seamless-shorts-v1",
+        "sku": "everyday-seamless-shorts-sku",
+        "colorName": "Cherry Purple",
+        "size": null,
+        "priceCents": 2800,
+        "images": [
+          {
+            "url": "https://cdn.shopify.com/s/files/1/0156/6146/files/images-EverydaySeamlessShortsGSCherryPurpleB6A8M_PCDS_1412_0554_3840x.jpg?v=1752767851",
+            "alt": "Everyday Seamless Shorts"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ext-007",
+    "slug": "everyday-seamless-leggings",
+    "title": "Everyday Seamless Leggings",
+    "priceCents": 3800,
+    "compareAtCents": null,
+    "currency": "USD",
+    "gender": null,
+    "fit": "regular",
+    "categories": [],
+    "collections": [],
+    "description": null,
+    "variants": [
+      {
+        "id": "everyday-seamless-leggings-v1",
+        "sku": "everyday-seamless-leggings-sku",
+        "colorName": "Cherry Purple",
+        "size": null,
+        "priceCents": 3800,
+        "images": [
+          {
+            "url": "https://cdn.shopify.com/s/files/1/0156/6146/files/images-EverydaySeamlessLeggingsGSCherryPurpleB7A3L_PCDS_1625_0589_3840x.jpg?v=1752766312",
+            "alt": "Everyday Seamless Leggings"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ext-008",
+    "slug": "everyday-seamless-ribbed-midi-top",
+    "title": "Everyday Seamless Ribbed Midi Top",
+    "priceCents": 3400,
+    "compareAtCents": null,
+    "currency": "USD",
+    "gender": null,
+    "fit": null,
+    "categories": [],
+    "collections": [],
+    "description": null,
+    "variants": [
+      {
+        "id": "everyday-seamless-ribbed-midi-top-v1",
+        "sku": "everyday-seamless-ribbed-midi-top-sku",
+        "colorName": "Cherry Purple",
+        "size": null,
+        "priceCents": 3400,
+        "images": [
+          {
+            "url": "https://cdn.shopify.com/s/files/1/0156/6146/files/images-EverydaySeamlessTrend1MidiTopGSCherryPurpleB4C3L_PCDS_1683_0600_3840x.jpg?v=1752765430",
+            "alt": "Everyday Seamless Ribbed Midi Top"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ext-009",
+    "slug": "everyday-seamless-tank-with-shelf",
+    "title": "Everyday Seamless Tank With Shelf",
+    "priceCents": 3000,
+    "compareAtCents": null,
+    "currency": "USD",
+    "gender": null,
+    "fit": null,
+    "categories": [],
+    "collections": [],
+    "description": null,
+    "variants": [
+      {
+        "id": "everyday-seamless-tank-with-shelf-v1",
+        "sku": "everyday-seamless-tank-with-shelf-sku",
+        "colorName": "Cherry Purple",
+        "size": null,
+        "priceCents": 3000,
+        "images": [
+          {
+            "url": "https://cdn.shopify.com/s/files/1/0156/6146/files/images-EverydaySeamlessTrend1SleevelesswithshelfGSCherryPurpleB4C6F_PCDS_1473_0565_3840x.jpg?v=1752594984",
+            "alt": "Everyday Seamless Tank With Shelf"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ext-010",
+    "slug": "everyday-seamless-tight-fit-crew-neck-tee",
+    "title": "Everyday Seamless Tight Fit Crew Neck Tee",
+    "priceCents": 3000,
+    "compareAtCents": null,
+    "currency": "USD",
+    "gender": null,
+    "fit": null,
+    "categories": [],
+    "collections": [],
+    "description": null,
+    "variants": [
+      {
+        "id": "everyday-seamless-tight-fit-crew-neck-tee-v1",
+        "sku": "everyday-seamless-tight-fit-crew-neck-tee-sku",
+        "colorName": "Cherry Purple",
+        "size": null,
+        "priceCents": 3000,
+        "images": [
+          {
+            "url": "https://cdn.shopify.com/s/files/1/0156/6146/files/images-EverydaySeamlessTightFitTee_NewNeck_CrewNeck_GSCherryPurpleB3B1O_PCDS_7392_0577_3840x.jpg?v=1752829201",
+            "alt": "Everyday Seamless Tight Fit Crew Neck Tee"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ext-011",
+    "slug": "sport-7-shorts",
+    "title": "Sport  7\" Shorts",
+    "priceCents": 3800,
+    "compareAtCents": null,
+    "currency": "USD",
+    "gender": null,
+    "fit": "slim fit",
+    "categories": [],
+    "collections": [],
+    "description": null,
+    "variants": [
+      {
+        "id": "sport-7-shorts-v1",
+        "sku": "sport-7-shorts-sku",
+        "colorName": "Heavy Blue/Iron Blue",
+        "size": null,
+        "priceCents": 3800,
+        "images": [
+          {
+            "url": "https://cdn.shopify.com/s/files/1/0156/6146/files/images-Sport7ShortGSHeavyBlueGSIronBlueA1B3L_UCY1_1399_3840x.jpg?v=1753718671",
+            "alt": "Sport  7\" Shorts"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ext-012",
+    "slug": "sport-5-shorts",
+    "title": "Sport 5\" Shorts",
+    "priceCents": 3800,
+    "compareAtCents": null,
+    "currency": "USD",
+    "gender": null,
+    "fit": "slim fit",
+    "categories": [],
+    "collections": [],
+    "description": null,
+    "variants": [
+      {
+        "id": "sport-5-shorts-v1",
+        "sku": "sport-5-shorts-sku",
+        "colorName": "Smoke Blue/Black",
+        "size": null,
+        "priceCents": 3800,
+        "images": [
+          {
+            "url": "https://cdn.shopify.com/s/files/1/0156/6146/files/images-Sport5ShortREP_M_A0085GSSmokeBlueGSBlackA1B3M_UDXK7850_A_3840x.jpg?v=1752595416",
+            "alt": "Sport 5\" Shorts"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ext-013",
+    "slug": "sport-7-shorts",
+    "title": "Sport  7\" Shorts",
+    "priceCents": 3800,
+    "compareAtCents": null,
+    "currency": "USD",
+    "gender": null,
+    "fit": "slim fit",
+    "categories": [],
+    "collections": [],
+    "description": null,
+    "variants": [
+      {
+        "id": "sport-7-shorts-v1",
+        "sku": "sport-7-shorts-sku",
+        "colorName": "Black",
+        "size": null,
+        "priceCents": 3800,
+        "images": [
+          {
+            "url": "https://cdn.shopify.com/s/files/1/0156/6146/files/images-Sport7ShortGSBlackGSBlackA1B3L_BCBF_0154_3840x.jpg?v=1746820255",
+            "alt": "Sport  7\" Shorts"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ext-014",
+    "slug": "arrival-block-6-shorts",
+    "title": "Arrival Block 6\" Shorts",
+    "priceCents": 3000,
+    "compareAtCents": null,
+    "currency": "USD",
+    "gender": null,
+    "fit": "slim fit",
+    "categories": [],
+    "collections": [],
+    "description": null,
+    "variants": [
+      {
+        "id": "arrival-block-6-shorts-v1",
+        "sku": "arrival-block-6-shorts-sku",
+        "colorName": "Black",
+        "size": null,
+        "priceCents": 3000,
+        "images": [
+          {
+            "url": "https://cdn.shopify.com/s/files/1/0156/6146/files/images-ArrivalGoodLevelNewnessshortGSBlackA3B9Y_BB2J_1279_3840x.jpg?v=1753986811",
+            "alt": "Arrival Block 6\" Shorts"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ext-015",
+    "slug": "arrival-7-shorts",
+    "title": "Arrival 7\" Shorts",
+    "priceCents": 2600,
+    "compareAtCents": null,
+    "currency": "USD",
+    "gender": null,
+    "fit": "slim fit",
+    "categories": [],
+    "collections": [],
+    "description": null,
+    "variants": [
+      {
+        "id": "arrival-7-shorts-v1",
+        "sku": "arrival-7-shorts-sku",
+        "colorName": "Chestnut Pink",
+        "size": null,
+        "priceCents": 2600,
+        "images": [
+          {
+            "url": "https://cdn.shopify.com/s/files/1/0156/6146/files/images-ArrivalSlim7_ShortGSChestnutPinkA2A1L_KCPN_6_3840x.jpg?v=1753900785",
+            "alt": "Arrival 7\" Shorts"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ext-016",
+    "slug": "arrival-block-6-shorts",
+    "title": "Arrival Block 6\" Shorts",
+    "priceCents": 3000,
+    "compareAtCents": null,
+    "currency": "USD",
+    "gender": null,
+    "fit": "slim fit",
+    "categories": [],
+    "collections": [],
+    "description": null,
+    "variants": [
+      {
+        "id": "arrival-block-6-shorts-v1",
+        "sku": "arrival-block-6-shorts-sku",
+        "colorName": "Dark Grey",
+        "size": null,
+        "priceCents": 3000,
+        "images": [
+          {
+            "url": "https://cdn.shopify.com/s/files/1/0156/6146/files/images-ArrivalGoodLevelNewnessshortGSDarkGreyA3B9Y_GB7H_2855_V1_3840x.jpg?v=1753900386",
+            "alt": "Arrival Block 6\" Shorts"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ext-017",
+    "slug": "arrival-5-shorts",
+    "title": "Arrival 5\" Shorts",
+    "priceCents": 2600,
+    "compareAtCents": null,
+    "currency": "USD",
+    "gender": null,
+    "fit": "slim fit",
+    "categories": [],
+    "collections": [],
+    "description": null,
+    "variants": [
+      {
+        "id": "arrival-5-shorts-v1",
+        "sku": "arrival-5-shorts-sku",
+        "colorName": "Silhouette Grey",
+        "size": null,
+        "priceCents": 2600,
+        "images": [
+          {
+            "url": "https://cdn.shopify.com/s/files/1/0156/6146/products/ArrivalSlim5Short-SilhouetteGreyA2A1M-GBP4_3840x.jpg?v=1660034608",
+            "alt": "Arrival 5\" Shorts"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ext-018",
+    "slug": "arrival-7-shorts",
+    "title": "Arrival 7\" Shorts",
+    "priceCents": 2600,
+    "compareAtCents": null,
+    "currency": "USD",
+    "gender": null,
+    "fit": "slim fit",
+    "categories": [],
+    "collections": [],
+    "description": null,
+    "variants": [
+      {
+        "id": "arrival-7-shorts-v1",
+        "sku": "arrival-7-shorts-sku",
+        "colorName": "Silhouette Grey",
+        "size": null,
+        "priceCents": 2600,
+        "images": [
+          {
+            "url": "https://cdn.shopify.com/s/files/1/0156/6146/products/ArrivalSlim7ShortSilhouetteGreyA2A1L-GBP45.A_500d57b1-1b0e-42da-9930-68ce1a542438_3840x.jpg?v=1680785738",
+            "alt": "Arrival 7\" Shorts"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ext-019",
+    "slug": "arrival-7-shorts",
+    "title": "Arrival 7\" Shorts",
+    "priceCents": 2600,
+    "compareAtCents": null,
+    "currency": "USD",
+    "gender": null,
+    "fit": "slim fit",
+    "categories": [],
+    "collections": [],
+    "description": null,
+    "variants": [
+      {
+        "id": "arrival-7-shorts-v1",
+        "sku": "arrival-7-shorts-sku",
+        "colorName": "Black",
+        "size": null,
+        "priceCents": 2600,
+        "images": [
+          {
+            "url": "https://cdn.shopify.com/s/files/1/0156/6146/files/Arrival7ShortsBlackA2A1L-BBBB-1828_A-Edit_bb569cfe-d79d-4307-bcf9-b3d1a5253308_3840x.jpg?v=1744725862",
+            "alt": "Arrival 7\" Shorts"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ext-020",
+    "slug": "arrival-7-shorts",
+    "title": "Arrival 7\" Shorts",
+    "priceCents": 2600,
+    "compareAtCents": null,
+    "currency": "USD",
+    "gender": null,
+    "fit": "slim fit",
+    "categories": [],
+    "collections": [],
+    "description": null,
+    "variants": [
+      {
+        "id": "arrival-7-shorts-v1",
+        "sku": "arrival-7-shorts-sku",
+        "colorName": "Core Olive",
+        "size": null,
+        "priceCents": 2600,
+        "images": [
+          {
+            "url": "https://cdn.shopify.com/s/files/1/0156/6146/products/ArrivalSlim7ShortCoreOliveA2A1L-EBF12.A_3840x.jpg?v=1674819980",
+            "alt": "Arrival 7\" Shorts"
+          }
+        ]
+      }
+    ]
+  }
+]
