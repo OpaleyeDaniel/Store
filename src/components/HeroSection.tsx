@@ -5,7 +5,7 @@ const HeroSection = () => {
   return (
     <section className="hero-section">
       <img
-        src={heroImage}
+        src={""|| "COMING SOON"}
         alt="Athletic woman in motion - Premium fitness wear"
         className="hero-bg"
       />
@@ -13,15 +13,15 @@ const HeroSection = () => {
       
       <div className="hero-content">
         <div className="mb-6">
-          <p className="label-sm text-white/80 mb-4">NEW COLLECTION</p>
+          <p className="label-sm text-white/80 mb-4">NEW PRODUCT COLLECTION</p>
           <h1 className="display-xl text-white text-shadow mb-6">
-            FORGE YOUR
+            CLAIM YOUR
             <br />
             <span className="text-electric-blue">LIMITS</span>
           </h1>
           <p className="body-lg text-white/90 mb-8 max-w-2xl mx-auto leading-relaxed">
-            Engineered for athletes who refuse to settle. Premium performance wear 
-            that moves with your ambition and amplifies your potential.
+          A circular economy platform where you dont sell your old items for cash , you trade them for "karma points" to get other itemsyou need,
+          fostering community and sustainability.
           </p>
         </div>
         
@@ -37,7 +37,7 @@ const HeroSection = () => {
         <div className="mt-12 flex items-center justify-center space-x-8 text-white/60">
           <div className="text-center">
             <div className="text-2xl font-bold text-white">15K+</div>
-            <div className="text-sm">Athletes</div>
+            <div className="text-sm">PRODUCTS</div>
           </div>
           <div className="w-px h-8 bg-white/20"></div>
           <div className="text-center">

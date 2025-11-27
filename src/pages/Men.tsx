@@ -99,9 +99,9 @@ const Men = () => {
       count: menProducts.filter(p => p.title.toLowerCase().includes('tee') || p.title.toLowerCase().includes('shirt')).length
     },
     { 
-      name: "Sport Collection", 
-      slug: "sport", 
-      description: "High-performance athletic gear", 
+      name: "Product Collection", 
+      slug: "product", 
+      description: "High-performance product gear", 
       count: menProducts.filter(p => p.title.toLowerCase().includes('sport')).length
     },
     { 
@@ -122,7 +122,7 @@ const Men = () => {
         <div className="absolute inset-0 bg-gradient-to-r from-background/80 to-background/40 z-10" />
         <img 
           src={heroMenImage} 
-          alt="Men's athletic lifestyle" 
+          alt="Men's product lifestyle" 
           className="absolute inset-0 w-full h-full object-cover object-center"
         />
         <div className="relative z-20 text-center px-4 sm:px-6 animate-fade-in max-w-4xl mx-auto">
@@ -194,7 +194,7 @@ const Men = () => {
         <section className="mb-20">
           <div className="text-center mb-12">
             <h2 className="text-3xl font-bold text-foreground mb-4">Featured Products</h2>
-            <p className="text-muted-foreground text-lg">Hand-picked essentials for the modern athlete</p>
+            <p className="text-muted-foreground text-lg">Hand-picked essentials for the modern product</p>
           </div>
           
           <div className="grid-responsive stagger-children">
@@ -224,7 +224,7 @@ const Men = () => {
         {/* SEO Content Block */}
         <section className="bg-card rounded-lg p-8 animate-fade-in">
           <div className="max-w-4xl mx-auto">
-            <h2 className="text-2xl font-bold text-foreground mb-6">Unleash Your Athletic Potential</h2>
+            <h2 className="text-2xl font-bold text-foreground mb-6">Unleash Your product Potential</h2>
             <div className="grid md:grid-cols-2 gap-8">
               <div>
                 <h3 className="text-xl font-semibold text-foreground mb-4">Performance-Driven Design</h3>

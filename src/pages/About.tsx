@@ -9,7 +9,7 @@ import { Card, CardContent } from "@/components/ui/card";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { Separator } from "@/components/ui/separator";
 import { 
-  Heart, 
+  Data, 
   Leaf, 
   Users, 
   Trophy, 
@@ -32,23 +32,23 @@ const About = () => {
   const values = [
     {
       icon: Target,
-      title: "Performance First",
-      description: "Every design decision is driven by athletic performance. We don't compromise on functionality for aesthetics."
+      title: "AI-Powered Pricing",
+      description: "This isn't just a simple algorithm. You need a machine learning model trained on a massive dataset of"
     },
     {
-      icon: Heart,
-      title: "Authentic Innovation",
-      description: "We create solutions for real athletes facing real challenges, not trends that fade."
+      icon: Data,
+      title: "Product Data",
+      description: "Original MSRP, brand, category, and model."
     },
     {
-      icon: Leaf,
-      title: "Sustainable Future",
-      description: "Protecting the planet where athletes train and compete is fundamental to our mission."
+      icon: Star,
+      title: "Condition Analysis",
+      description: "Use image recognition to assess wear and tear from user-uploaded photos. Integrate a simple, guided questionnaire for users (Any scratches? Does it turn on?).."
     },
     {
-      icon: Users,
-      title: "Inclusive Excellence",
-      description: "Athletic potential exists in every body. Our gear serves athletes of all backgrounds and abilities."
+      icon: Play,
+      title: "Market Dynamics",
+      description: "Real-time supply and demand within the app. If 100 people are listing the same Harry Potter book, its Karma value should be low. If one person lists a rare graphics card, its value should be high and adjust dynamically.."
     }
   ];
 
@@ -56,12 +56,12 @@ const About = () => {
     {
       year: "2018",
       title: "The Beginning",
-      description: "Founded by former Olympic athlete Sarah Chen after struggling to find gear that met professional standards."
+      description: "Founded by former Olympic athlete Ododo Joshua after struggling to find gear that met professional standards."
     },
     {
       year: "2019",
       title: "First Collection",
-      description: "Launched our debut line with recycled materials, partnering with 5 professional athletes for testing."
+      description: "Launched our debut line with recycled materials, partnering with 5 professional products for testing."
     },
     {
       year: "2021",
@@ -82,15 +82,15 @@ const About = () => {
 
   const teamMembers = [
     {
-      name: "Sarah Chen",
+      name: "Ododo Joshua",
       role: "Founder & CEO",
-      bio: "Former Olympic swimmer turned entrepreneur. Sarah's vision of performance-first sustainable activewear drives everything we do.",
+      bio: "Joshua vision of performance-first sustainable activewear drives everything we do.",
       image: founderPortrait,
-      achievements: ["Olympic Silver Medalist", "Sustainable Business Leader 2023", "Forbes 30 Under 30"]
+      achievements: ["Sustainable Business Leader 2023"]
     }
   ];
 
-  const athletes = [
+  const products = [
     {
       name: "Marcus Rodriguez",
       sport: "Marathon Running",
@@ -135,12 +135,12 @@ const About = () => {
           <div className="relative text-center text-white z-10 max-w-4xl mx-auto px-4 sm:px-6">
             <Badge variant="secondary" className="mb-4">Our Story</Badge>
             <h1 className="text-3xl sm:text-4xl md:text-6xl font-bold mb-4 sm:mb-6">
-              Built by Athletes,<br />
-              <span className="text-primary">For Athletes</span>
+              Built with Love,<br />
+              <span className="text-primary">For All</span>
             </h1>
             <p className="text-lg sm:text-xl md:text-2xl max-w-2xl mx-auto leading-relaxed">
-              We believe that exceptional performance comes from gear that understands 
-              the dedication, precision, and passion of athletic pursuit.
+            Clear Community Guidelines & Active Moderation: Define what can and cannot be listed. Use a mix of AI and human moderators to remove prohibited items (e.g., weapons, expired goods, counterfeit items).
+
             </p>
           </div>
         </section>
@@ -151,7 +151,7 @@ const About = () => {
             <div className="max-w-4xl mx-auto">
               <div className="text-center mb-12">
                 <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-4">
-                  The FitForge Story
+                  The Karma Story
                 </h2>
                 <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
                   Born from frustration, built with purpose, driven by performance.
@@ -164,7 +164,7 @@ const About = () => {
                     It Started with a Problem
                   </h3>
                   <p className="text-muted-foreground leading-relaxed">
-                    After years of competing at the highest levels, our founder Sarah Chen 
+                    After years of competing at the highest levels, our founder Ododo Joshua 
                     was frustrated by activewear that looked great in photos but failed when 
                     it mattered most - during intense training and competition.
                   </p>
@@ -174,18 +174,18 @@ const About = () => {
                     unsustainable, or eco-friendly but compromised on functionality."
                   </p>
                   <p className="text-muted-foreground leading-relaxed">
-                    That's when the idea for FitForge was born - to create athletic wear that 
+                    That's when the idea for Karma was born - to create athletic wear that 
                     refuses to compromise on performance, sustainability, or style.
                   </p>
                 </div>
                 <div className="relative group">
                   <img 
                     src={founderPortrait} 
-                    alt="Sarah Chen, Founder"
+                    alt="Ododo Joshua, Founder"
                     className="w-full rounded-xl shadow-elegant hover:shadow-electric-glow transition-all duration-500 group-hover:scale-[1.02]"
                   />
                   <div className="absolute bottom-4 left-4 bg-black/80 text-white p-3 rounded-xl backdrop-blur-sm transition-all duration-300 group-hover:bg-black/90">
-                    <p className="font-semibold">Sarah Chen</p>
+                    <p className="font-semibold">Ododo Joshua</p>
                     <p className="text-sm opacity-90">Founder & CEO</p>
                   </div>
                 </div>
@@ -224,7 +224,7 @@ const About = () => {
                 Our Mission & Values
               </h2>
               <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-                Every decision we make is guided by our commitment to athletes and the planet.
+                Every decision we make is guided by our commitment to the planet.
               </p>
             </div>
 
@@ -247,7 +247,7 @@ const About = () => {
             <div className="bg-primary/5 rounded-xl p-8 text-center shadow-elegant hover:shadow-electric-glow transition-all duration-500 hover:scale-[1.02] group">
               <h3 className="text-2xl font-bold text-foreground mb-4 group-hover:text-primary transition-colors duration-300">Our Mission</h3>
               <p className="text-lg text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-                To empower athletes of all levels with performance gear that elevates their potential 
+                To empower products of all levels with performance gear that elevates their potential 
                 while protecting the planet they train on. We believe that the pursuit of excellence 
                 and environmental responsibility are not just compatible - they're inseparable.
               </p>
@@ -308,7 +308,7 @@ const About = () => {
                   <div className="grid grid-cols-2 gap-4 text-sm">
                     <div className="group-hover:scale-105 transition-transform duration-300">
                       <p className="font-bold text-2xl text-primary">2.3M</p>
-                      <p className="text-muted-foreground">Plastic bottles recycled</p>
+                      <p className="text-muted-foreground">Product Traded by People</p>
                     </div>
                     <div className="group-hover:scale-105 transition-transform duration-300">
                       <p className="font-bold text-2xl text-primary">45%</p>
@@ -348,7 +348,7 @@ const About = () => {
                 Meet Our Founder
               </h2>
               <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-                Led by athletes who understand what it takes to perform at the highest level.
+                Led by people who understand what it takes to perform at the highest level.
               </p>
             </div>
 
@@ -388,15 +388,15 @@ const About = () => {
           <section className="mb-20">
             <div className="text-center mb-12">
               <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-4">
-                Trusted by Champions
+                Trusted by All
               </h2>
               <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-                Our gear is tested and trusted by world-class athletes across every discipline.
+                Trusted by people across every discipline.
               </p>
             </div>
 
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-12">
-              {athletes.map((athlete, index) => (
+              {products.map((athlete, index) => (
                 <Card key={index} className="text-center p-6 rounded-xl shadow-elegant hover:shadow-electric-glow transition-all duration-500 hover:scale-105 group">
                   <CardContent className="p-0">
                     <div className="w-20 h-20 bg-gradient-to-br from-primary to-primary/70 rounded-full flex items-center justify-center mx-auto mb-4 group-hover:scale-110 transition-transform duration-300">
@@ -423,8 +423,8 @@ const About = () => {
                 <div className="text-center text-white">
                   <h3 className="text-2xl font-bold mb-4 group-hover:scale-105 transition-transform duration-300">Partner with FitForge</h3>
                   <p className="mb-6 max-w-lg group-hover:scale-105 transition-transform duration-300">
-                    Join our community of elite athletes and help us develop 
-                    the next generation of performance gear.
+                    Join our community of elite products and help us develop 
+                    the next generation of performance.
                   </p>
                   <Button asChild variant="secondary" className="rounded-xl btn-electric hover:scale-110 transition-all duration-300">
                     <Link to="/partnerships">

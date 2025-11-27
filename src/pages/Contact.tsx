@@ -34,15 +34,15 @@ const Contact = () => {
       icon: Mail,
       title: "Email Support",
       description: "Get help via email",
-      contact: "help@fitforge.com",
-      action: "mailto:help@fitforge.com"
+      contact: "help@karma.com",
+      action: "mailto:help@karma.com"
     },
     {
       icon: Phone,
       title: "Phone Support",
       description: "Speak with our team",
-      contact: "1-800-FIT-FORGE",
-      action: "tel:1-800-348-3674"
+      contact: "1-800-KARMA",
+      action: "tel:+234-800-348-3674"
     },
     {
       icon: MessageCircle,
@@ -55,8 +55,8 @@ const Contact = () => {
       icon: Headphones,
       title: "Technical Support",
       description: "Website & app issues",
-      contact: "tech@fitforge.com",
-      action: "mailto:tech@fitforge.com"
+      contact: "tech@karma.com",
+      action: "mailto:tech@karma.com"
     }
   ];
 
@@ -222,10 +222,9 @@ const Contact = () => {
                   </CardHeader>
                   <CardContent>
                     <address className="text-sm text-neutral-600 not-italic">
-                      FitForge HQ<br />
-                      123 Athletic Way<br />
-                      Performance City, PC 12345<br />
-                      United States
+                      karma HQ<br />
+                      Ikeja <br />
+                      Lagos, Nigeria.
                     </address>
                   </CardContent>
                 </Card>

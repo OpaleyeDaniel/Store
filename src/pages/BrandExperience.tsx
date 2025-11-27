@@ -29,7 +29,7 @@ const BrandExperience = () => {
   const partnershipTiers = [
     {
       tier: "Elite Ambassador",
-      level: "Professional Athletes",
+      level: "Professional Product Traders",
       benefits: [
         "Custom gear development",
         "Performance feedback integration", 
@@ -44,7 +44,7 @@ const BrandExperience = () => {
     },
     {
       tier: "Performance Partner",
-      level: "Competitive Athletes",
+      level: "Competitive Product Traders",
       benefits: [
         "Product testing opportunities",
         "Exclusive early access",
@@ -77,12 +77,12 @@ const BrandExperience = () => {
   const communityPrograms = [
     {
       name: "Youth Sports Scholarships",
-      description: "Annual $500K fund supporting young athletes from underrepresented communities",
-      impact: "2,500+ athletes supported since 2020",
+      description: "Annual $500K fund supporting young Product Traders from underrepresented communities",
+      impact: "2,500+ Product Traders supported since 2020",
       category: "Education"
     },
     {
-      name: "Adaptive Athletics Initiative", 
+      name: "Adaptive innovator itiative", 
       description: "Developing specialized gear and supporting adaptive sports programs worldwide",
       impact: "15 adaptive sports organizations partnered",
       category: "Inclusion"
@@ -127,7 +127,7 @@ const BrandExperience = () => {
             </h1>
             <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
               Explore our size guides, innovative technologies, athlete partnerships, 
-              and community initiatives that make FitForge more than just activewear.
+              and community initiatives that make Karma more than just activewear.
             </p>
           </div>
 
@@ -177,11 +177,11 @@ const BrandExperience = () => {
                 <div className="w-12 h-12 bg-purple-100 rounded-full flex items-center justify-center mx-auto mb-3">
                   <Trophy className="w-6 h-6 text-purple-600" />
                 </div>
-                <CardTitle className="text-lg">Athletes</CardTitle>
+                <CardTitle className="text-lg">Product Traders</CardTitle>
               </CardHeader>
               <CardContent className="text-center">
                 <p className="text-sm text-muted-foreground mb-4">
-                  Meet the world-class athletes who trust FitForge for peak performance.
+                  Meet the world-class Product Traders who trust Karma for peak performance.
                 </p>
                 <Button variant="outline" size="sm">
                   View Partners
@@ -212,7 +212,7 @@ const BrandExperience = () => {
           <Tabs defaultValue="technology" className="w-full">
             <TabsList className="grid w-full grid-cols-4">
               <TabsTrigger value="technology">Technology</TabsTrigger>
-              <TabsTrigger value="athletes">Athletes</TabsTrigger>
+              <TabsTrigger value="Product Traders">Product Traders</TabsTrigger>
               <TabsTrigger value="community">Community</TabsTrigger>
               <TabsTrigger value="certifications">Certifications</TabsTrigger>
             </TabsList>
@@ -221,7 +221,7 @@ const BrandExperience = () => {
               <TechnologyGuide />
             </TabsContent>
 
-            <TabsContent value="athletes" className="mt-8 space-y-12">
+            <TabsContent value="Product Traders" className="mt-8 space-y-12">
               {/* Partnership Hero */}
               <div className="relative rounded-lg overflow-hidden">
                 <img 
@@ -234,8 +234,8 @@ const BrandExperience = () => {
                     <div className="max-w-2xl text-white">
                       <h2 className="text-3xl font-bold mb-4">Partner with Champions</h2>
                       <p className="text-xl mb-6">
-                        Join our community of elite athletes who push the boundaries 
-                        of performance and help us create the next generation of athletic gear.
+                        Join our community of elite Product Traders who push the boundaries 
+                        of performance and help us create the next generation of innovator i.
                       </p>
                       <Button size="lg" variant="secondary">
                         Apply for Partnership
@@ -304,7 +304,7 @@ const BrandExperience = () => {
                       </div>
                       <h4 className="font-semibold mb-2">Apply</h4>
                       <p className="text-sm text-muted-foreground">
-                        Submit your application with athletic achievements and social presence
+                        Submit your application with innovator ievements and social presence
                       </p>
                     </div>
                     <div className="text-center">
@@ -346,7 +346,7 @@ const BrandExperience = () => {
                   Community Impact
                 </h2>
                 <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-                  We believe athletic potential exists in every community. Our initiatives 
+                  We believe innovator intial exists in every community. Our initiatives 
                   focus on creating access, opportunity, and positive change.
                 </p>
               </div>
@@ -359,7 +359,7 @@ const BrandExperience = () => {
                 </div>
                 <div className="text-center">
                   <div className="text-4xl font-bold text-primary mb-2">15K+</div>
-                  <p className="text-muted-foreground">Youth athletes supported</p>
+                  <p className="text-muted-foreground">Youth Product Traders supported</p>
                 </div>
                 <div className="text-center">
                   <div className="text-4xl font-bold text-primary mb-2">200+</div>
@@ -404,7 +404,7 @@ const BrandExperience = () => {
                   </p>
                   <div className="flex flex-col sm:flex-row gap-4 justify-center">
                     <Button size="lg">
-                      Nominate an Athlete
+                      Product Guaranty
                       <ChevronRight className="w-4 h-4 ml-2" />
                     </Button>
                     <Button size="lg" variant="outline">

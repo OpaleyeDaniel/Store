@@ -131,7 +131,7 @@ const Auth = () => {
 
       toast({
         title: 'Account created!',
-        description: 'Welcome to FitForge! You are now logged in.',
+        description: 'Welcome to Karma! You are now logged in.',
       });
       
       navigate('/');
@@ -152,7 +152,7 @@ const Auth = () => {
       <main className="flex-1 flex items-center justify-center px-4 pt-24 pb-8">
         <Card className="w-full max-w-md">
           <CardHeader>
-            <CardTitle className="text-2xl">Welcome to FitForge</CardTitle>
+            <CardTitle className="text-2xl">Welcome to Karma</CardTitle>
             <CardDescription>Sign in to your account or create a new one</CardDescription>
           </CardHeader>
           <CardContent>

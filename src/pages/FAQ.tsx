@@ -52,7 +52,7 @@ const FAQ = () => {
           answer: "Yes! Our gear is designed for versatility - from high-intensity training to yoga, running to weightlifting. Each product description includes recommended activities and performance features."
         },
         {
-          question: "How should I care for my FitForge items?",
+          question: "How should I care for my skarma items?",
           answer: "Machine wash cold with like colors, avoid fabric softener, and air dry when possible. Detailed care instructions are included with each purchase and on product pages."
         }
       ]
@@ -207,10 +207,10 @@ const FAQ = () => {
                 <div className="text-center">
                   <p className="font-medium text-black mb-1">Email Support</p>
                   <a 
-                    href="mailto:help@fitforge.com" 
+                    href="mailto:help@skarma.com" 
                     className="text-electric-blue hover:underline"
                   >
-                    help@fitforge.com
+                    help@skarma.com
                   </a>
                 </div>
                 <div className="hidden sm:block text-neutral-300">|</div>
@@ -220,7 +220,7 @@ const FAQ = () => {
                     href="tel:1-800-348-3674" 
                     className="text-electric-blue hover:underline"
                   >
-                    1-800-FIT-FORGE
+                    1-800-KARMA
                   </a>
                 </div>
                 <div className="hidden sm:block text-neutral-300">|</div>

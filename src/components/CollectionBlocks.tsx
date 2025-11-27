@@ -32,11 +32,11 @@ const CollectionBlocks = () => {
           <h2 className="display-lg text-black mb-6">
             PERFORMANCE MEETS
             <br />
-            <span className="text-electric-blue">STYLE</span>
+            <span className="text-electric-blue">DISCOVERED</span>
           </h2>
           <p className="body-lg text-neutral-600 max-w-2xl mx-auto">
-            Discover our signature collections designed for the modern athlete 
-            who demands both function and fashion.
+          THis is a circular economy platform where you dont sell your old items for cash , you trade them for "karma points" to get other itemsyou need,
+          fostering community and sustainability.
           </p>
         </div>
 
